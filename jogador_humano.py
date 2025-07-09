@@ -23,5 +23,3 @@ class JogadorHumano(Jogador):
                              b = self.buttons[l][c]
                              if b.rect.collidepoint(pygame.mouse.get_pos()):
                                  return (l, c)
-                            
-    
