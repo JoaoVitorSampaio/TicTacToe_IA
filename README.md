@@ -33,13 +33,13 @@ A IA implementa as seguintes **regras estratégicas** (em ordem de prioridade):
 5. **R5:** Se houver algum canto livre, ocupe-o.
 6. **R6:** Caso contrário, escolha qualquer casa livre aleatoriamente.
 
-Estas regras tornam a IA **competitiva e difícil de vencer**. 🔥
+Estas regras tornam a IA **competitiva e impossível de vencer**. 🔥
 
 ---
 
 ## 💻 Linguagens e Tecnologias
 
-- **Python ** → linguagem principal
+- **Python** → linguagem principal
 - **Pygame** → interface gráfica e interação
 - **VS Code** → ambiente de desenvolvimento
 
