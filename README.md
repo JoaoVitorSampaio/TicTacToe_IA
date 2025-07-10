@@ -55,29 +55,31 @@ Estas regras tornam a IA **competitiva e difícil de vencer**. 🔥
 
 ### 1. Clone o Repositório
 
-```bash
+```
 git clone https://github.com/JoaoVitorSampaio/TicTacToe_IA.git
 cd TicTacToe_IA
 ```
 
 ### 2. Crie um Ambiente Virtual (opcional, mas recomendado)
 
-``` Windows:
+Windows:
+``` 
 python -m venv venv
 .\venv\Scripts\activate
 ```
 
-``` Linux/macOS: 
+Linux/macOS: 
+``` 
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-3. Instale as Dependências
+### 3. Instale as Dependências
 ```
 pip install pygame
 ```
 
-4. Execute o Jogo
+### 4. Execute o Jogo
 ```
 python main.py
 ```
