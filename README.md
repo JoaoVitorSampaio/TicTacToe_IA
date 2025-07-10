@@ -51,7 +51,7 @@ Estas regras tornam a IA **competitiva e difícil de vencer**. 🔥
 
 ---
 
-## 🛠️ Como Rodar
+## 🛠️ Como Executar
 
 ### 1. Clone o Repositório
 
@@ -83,3 +83,28 @@ pip install pygame
 ```
 python main.py
 ```
+Se tudo estiver certo, abrirá **uma janela gráfica** com o tabuleiro do jogo.  
+
+✅ **No jogo:**
+
+- O jogador humano clica nas casas para marcar sua jogada.  
+- A IA joga automaticamente após o humano.  
+- O jogo exibe o resultado (vitória ou empate) no final.
+
+---
+
+## 🆘 Problemas Comuns
+
+- **Erro `ModuleNotFoundError: No module named 'pygame'`**  
+  → Rode:
+  ```bash
+  pip install pygame
+  
+- **Erro de arquivo não encontrado (`main.py`)**  
+  → Confirme que está na pasta certa:
+  ```bash
+  cd TicTacToe_IA
+
+# Rode manualmente via terminal:
+python main.py
+
