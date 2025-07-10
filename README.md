@@ -106,5 +106,6 @@ Se tudo estiver certo, abrirá **uma janela gráfica** com o tabuleiro do jogo.
   cd TicTacToe_IA
 
 - **Rode manualmente via terminal:**
-``` python main.py ```
+```
+python main.py 
 
