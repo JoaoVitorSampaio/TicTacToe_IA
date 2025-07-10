@@ -45,8 +45,7 @@ Estas regras tornam a IA **competitiva e difícil de vencer**. 🔥
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Pygame" height="50" width="50" src="![image](https://github.com/user-attachments/assets/066c4224-d1fc-4cf4-b9a2-225b7cdbfca7)
-" />
+  <img align="center" alt="Pygame" height="50" width="50" src="![image](https://github.com/user-attachments/assets/6c905354-d3c1-4aa5-bce3-3d61b9f64572)" />
   <img align="center" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
